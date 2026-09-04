@@ -7,7 +7,7 @@ local OldKeys = {
     "VIP_KEY_1"
 }
 
-local TelegramContact = "@ApostolHub_Support" -- Укажите ваш актуальный телеграм канал или контакт
+local TelegramContact = "@apostoltdm" 
 
 local SelectedLanguage = "RU"
 
