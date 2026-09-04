@@ -1,4 +1,4 @@
-local ActiveKey = "APOSTOL_HUB_2026"
+local ActiveKey = "RELEASE"
 
 local OldKeys = {
     "TEST",
